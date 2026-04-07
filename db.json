@@ -1,0 +1,431 @@
+{
+  "cats": [
+    {
+      "id": "3eebfc22-22a5-436e-a811-80482ba0e50d",
+      "name": "Simba",
+      "dob": "2021-09-09",
+      "listedDate": "2026-01-19",
+      "description": "Simba is very quiet and would prefer a home with lots of hiding spots.",
+      "imageUrl": "https://cataas.com/cat/orange?width=400",
+      "gender": "Female",
+      "breed": "Abyssinian",
+      "isVaccinated": false,
+      "energyLevel": 2,
+      "linkedCats": [
+        "4dff6e9b-8496-4e3f-ae89-5854fcb252b5"
+      ],
+      "goodWith": [
+        "Cats",
+        "Quiet Homes",
+        "Kids"
+      ]
+    },
+    {
+      "id": "4dff6e9b-8496-4e3f-ae89-5854fcb252b5",
+      "name": "Milo",
+      "dob": "2018-01-18",
+      "listedDate": "2026-01-11",
+      "description": "Full of energy, Milo will keep you entertained with their zoomies.",
+      "imageUrl": "https://cataas.com/cat/cute?width=400",
+      "gender": "Female",
+      "breed": "Birman",
+      "isVaccinated": true,
+      "energyLevel": 3,
+      "linkedCats": [
+        "3eebfc22-22a5-436e-a811-80482ba0e50d"
+      ],
+      "goodWith": [
+        "Quiet Homes"
+      ]
+    },
+    {
+      "id": "59d76948-a1d4-4286-9c32-1784e7963c01",
+      "name": "Oliver",
+      "dob": "2020-09-21",
+      "listedDate": "2026-01-01",
+      "description": "Independent and bold, Oliver is a true explorer of the indoors.",
+      "imageUrl": "https://cataas.com/cat/cute?width=400",
+      "gender": "Female",
+      "breed": "Abyssinian",
+      "isVaccinated": false,
+      "energyLevel": 4,
+      "linkedCats": [],
+      "goodWith": [
+        "Other Pets"
+      ]
+    },
+    {
+      "id": "40c67cde-2750-4206-97d1-aaa82c093a0c",
+      "name": "Leo",
+      "dob": "2023-08-17",
+      "listedDate": "2025-10-01",
+      "description": "Leo has a loud purr that can be heard from the next room.",
+      "imageUrl": "https://cataas.com/cat/calico?width=400",
+      "gender": "Male",
+      "breed": "Abyssinian",
+      "isVaccinated": true,
+      "energyLevel": 5,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Quiet Homes"
+      ]
+    },
+    {
+      "id": "b94973f9-b058-4956-aa2e-8d8bc4f631ef",
+      "name": "Loki",
+      "dob": "2022-10-03",
+      "listedDate": "2025-11-05",
+      "description": "Full of energy, Loki will keep you entertained with their zoomies.",
+      "imageUrl": "https://cataas.com/cat/tuxedo?width=400",
+      "gender": "Male",
+      "breed": "Abyssinian",
+      "isVaccinated": false,
+      "energyLevel": 1,
+      "linkedCats": [],
+      "goodWith": [
+        "Birds"
+      ]
+    },
+    {
+      "id": "f29996ec-b602-40e3-acf5-1495c7c10dd8",
+      "name": "Felix",
+      "dob": "2022-11-09",
+      "listedDate": "2026-03-17",
+      "description": "Full of energy, Felix will keep you entertained with their zoomies.",
+      "imageUrl": "https://cataas.com/cat/fluffy?width=400",
+      "gender": "Male",
+      "breed": "Burmese",
+      "isVaccinated": false,
+      "energyLevel": 4,
+      "linkedCats": [
+        "24fb9673-3169-40e1-b7e0-acfaf7f48860"
+      ],
+      "goodWith": [
+        "Birds",
+        "Other Pets"
+      ]
+    },
+    {
+      "id": "24fb9673-3169-40e1-b7e0-acfaf7f48860",
+      "name": "Jasper",
+      "dob": "2017-06-05",
+      "listedDate": "2025-10-22",
+      "description": "A bit of a troublemaker, Jasper enjoys knocking things off counters.",
+      "imageUrl": "https://cataas.com/cat/white?width=400",
+      "gender": "Female",
+      "breed": "Scottish Fold",
+      "isVaccinated": true,
+      "energyLevel": 5,
+      "linkedCats": [
+        "f29996ec-b602-40e3-acf5-1495c7c10dd8"
+      ],
+      "goodWith": [
+        "Quiet Homes",
+        "Birds",
+        "Other Pets",
+        "Kids"
+      ]
+    },
+    {
+      "id": "1772767a-4b25-4700-826f-1044397c851c",
+      "name": "Oscar",
+      "dob": "2021-08-12",
+      "listedDate": "2026-01-08",
+      "description": "Independent and bold, Oscar is a true explorer of the indoors.",
+      "imageUrl": "https://cataas.com/cat/white?width=400",
+      "gender": "Female",
+      "breed": "Abyssinian",
+      "isVaccinated": true,
+      "energyLevel": 1,
+      "linkedCats": [],
+      "goodWith": [
+        "Birds"
+      ]
+    },
+    {
+      "id": "686b9020-089f-4130-ad9a-0f9860c7c563",
+      "name": "Toby",
+      "dob": "2019-01-29",
+      "listedDate": "2026-02-23",
+      "description": "A bit of a troublemaker, Toby enjoys knocking things off counters.",
+      "imageUrl": "https://cataas.com/cat/fluffy?width=400",
+      "gender": "Female",
+      "breed": "Chartreux",
+      "isVaccinated": true,
+      "energyLevel": 4,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Quiet Homes",
+        "Other Pets",
+        "Dogs"
+      ]
+    },
+    {
+      "id": "be7f890e-65d1-41a2-a67b-d18a563eec7c",
+      "name": "Finn",
+      "dob": "2024-05-24",
+      "listedDate": "2025-12-15",
+      "description": "Finn has a loud purr that can be heard from the next room.",
+      "imageUrl": "https://cataas.com/cat/white?width=400",
+      "gender": "Female",
+      "breed": "Ragdoll",
+      "isVaccinated": false,
+      "energyLevel": 5,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Birds"
+      ]
+    },
+    {
+      "id": "72020d07-9373-460d-b9c3-31b640567c3d",
+      "name": "Bella",
+      "dob": "2021-11-15",
+      "listedDate": "2025-12-29",
+      "description": "Full of energy, Bella will keep you entertained with their zoomies.",
+      "imageUrl": "https://cataas.com/cat/calico?width=400",
+      "gender": "Male",
+      "breed": "Scottish Fold",
+      "isVaccinated": false,
+      "energyLevel": 5,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Quiet Homes",
+        "Birds",
+        "Other Pets"
+      ]
+    },
+    {
+      "id": "a9f213e1-1559-41ec-9088-fa57d68fbd48",
+      "name": "Chloe",
+      "dob": "2021-06-30",
+      "listedDate": "2026-02-10",
+      "description": "Chloe has a loud purr that can be heard from the next room.",
+      "imageUrl": "https://cataas.com/cat/fluffy?width=400",
+      "gender": "Male",
+      "breed": "Russian Blue",
+      "isVaccinated": false,
+      "energyLevel": 4,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Quiet Homes"
+      ]
+    },
+    {
+      "id": "6b99f850-8d9e-4cf1-bf58-e0ef24deb218",
+      "name": "Lucy",
+      "dob": "2025-03-08",
+      "listedDate": "2025-12-21",
+      "description": "Independent and bold, Lucy is a true explorer of the indoors.",
+      "imageUrl": "https://cataas.com/cat/small?width=400",
+      "gender": "Male",
+      "breed": "Persian",
+      "isVaccinated": false,
+      "energyLevel": 1,
+      "linkedCats": [],
+      "goodWith": [
+        "Quiet Homes",
+        "Birds",
+        "Other Pets"
+      ]
+    },
+    {
+      "id": "545d5525-8900-499e-8aa7-f946be28731c",
+      "name": "Lily",
+      "dob": "2023-01-26",
+      "listedDate": "2025-10-31",
+      "description": "Full of energy, Lily will keep you entertained with their zoomies.",
+      "imageUrl": "https://cataas.com/cat/tabby?width=400",
+      "gender": "Male",
+      "breed": "Scottish Fold",
+      "isVaccinated": false,
+      "energyLevel": 4,
+      "linkedCats": [],
+      "goodWith": [
+        "Other Pets",
+        "Dogs"
+      ]
+    },
+    {
+      "id": "b5e3bc73-6b2d-4a77-a60e-f8e0d86768e7",
+      "name": "Sophie",
+      "dob": "2019-03-23",
+      "listedDate": "2026-03-23",
+      "description": "Independent and bold, Sophie is a true explorer of the indoors.",
+      "imageUrl": "https://cataas.com/cat/orange?width=400",
+      "gender": "Male",
+      "breed": "Persian",
+      "isVaccinated": false,
+      "energyLevel": 1,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Dogs",
+        "Kids"
+      ]
+    },
+    {
+      "id": "a96619f2-c8fd-4acc-9643-14a053a81ec7",
+      "name": "Cleo",
+      "dob": "2024-06-09",
+      "listedDate": "2025-10-07",
+      "description": "A gentle soul, Cleo is great for a first-time cat owner.",
+      "imageUrl": "https://cataas.com/cat/calico?width=400",
+      "gender": "Female",
+      "breed": "Sphynx",
+      "isVaccinated": false,
+      "energyLevel": 5,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Quiet Homes",
+        "Other Pets",
+        "Kids"
+      ]
+    },
+    {
+      "id": "00764cca-833e-4ee6-832f-52aa7dde3cb4",
+      "name": "Daisy",
+      "dob": "2023-10-06",
+      "listedDate": "2025-12-19",
+      "description": "Daisy has a loud purr that can be heard from the next room.",
+      "imageUrl": "https://cataas.com/cat/tuxedo?width=400",
+      "gender": "Male",
+      "breed": "Persian",
+      "isVaccinated": true,
+      "energyLevel": 4,
+      "linkedCats": [],
+      "goodWith": [
+        "Quiet Homes",
+        "Other Pets",
+        "Kids"
+      ]
+    },
+    {
+      "id": "57ba8e8e-3dc3-4859-9a90-d406c125ffee",
+      "name": "Zoe",
+      "dob": "2022-02-11",
+      "listedDate": "2026-03-15",
+      "description": "Zoe is a majestic cat who knows exactly how beautiful they are.",
+      "imageUrl": "https://cataas.com/cat/white?width=400",
+      "gender": "Male",
+      "breed": "Birman",
+      "isVaccinated": true,
+      "energyLevel": 3,
+      "linkedCats": [],
+      "goodWith": [
+        "Quiet Homes"
+      ]
+    },
+    {
+      "id": "0e35bbf0-0f74-4eab-bef6-825e676f6790",
+      "name": "Nala",
+      "dob": "2021-02-07",
+      "listedDate": "2026-02-09",
+      "description": "Nala is a majestic cat who knows exactly how beautiful they are.",
+      "imageUrl": "https://cataas.com/cat/orange?width=400",
+      "gender": "Male",
+      "breed": "Scottish Fold",
+      "isVaccinated": true,
+      "energyLevel": 2,
+      "linkedCats": [],
+      "goodWith": [
+        "Quiet Homes"
+      ]
+    },
+    {
+      "id": "cc00fff2-ec47-4ab8-9ee3-6eb94a521919",
+      "name": "Misty",
+      "dob": "2020-02-24",
+      "listedDate": "2026-01-04",
+      "description": "Misty has a loud purr that can be heard from the next room.",
+      "imageUrl": "https://cataas.com/cat/tuxedo?width=400",
+      "gender": "Female",
+      "breed": "Chartreux",
+      "isVaccinated": false,
+      "energyLevel": 1,
+      "linkedCats": [],
+      "goodWith": [
+        "Cats",
+        "Other Pets",
+        "Kids"
+      ]
+    },
+    {
+      "id": "a680f21c-ef70-49fb-b94d-740533101613",
+      "name": "Socks",
+      "dob": "2022-09-18",
+      "listedDate": "2025-12-13",
+      "description": "A bit of a troublemaker, Socks enjoys knocking things off counters.",
+      "imageUrl": "https://cataas.com/cat/fluffy?width=400",
+      "gender": "Female",
+      "breed": "Russian Blue",
+      "isVaccinated": true,
+      "energyLevel": 2,
+      "linkedCats": [],
+      "goodWith": [
+        "Other Pets",
+        "Kids"
+      ]
+    },
+    {
+      "id": "09b52bc6-0058-45c9-b7ee-5c0e11dbe124",
+      "name": "Patches",
+      "dob": "2019-03-27",
+      "listedDate": "2025-10-28",
+      "description": "Patches is very quiet and would prefer a home with lots of hiding spots.",
+      "imageUrl": "https://cataas.com/cat/cute?width=400",
+      "gender": "Female",
+      "breed": "Abyssinian",
+      "isVaccinated": true,
+      "energyLevel": 5,
+      "linkedCats": [],
+      "goodWith": [
+        "Quiet Homes",
+        "Birds",
+        "Kids"
+      ]
+    },
+    {
+      "id": "4f73a468-b657-42e7-a1d5-404599ed0ee3",
+      "name": "Ginger",
+      "dob": "2024-03-02",
+      "listedDate": "2026-02-06",
+      "description": "A bit of a troublemaker, Ginger enjoys knocking things off counters.",
+      "imageUrl": "https://cataas.com/cat/calico?width=400",
+      "gender": "Male",
+      "breed": "Burmese",
+      "isVaccinated": true,
+      "energyLevel": 1,
+      "linkedCats": [],
+      "goodWith": [
+        "Dogs",
+        "Birds",
+        "Other Pets",
+        "Kids"
+      ]
+    },
+    {
+      "id": "b5f60009-ffcd-48cb-8212-2082a11df281",
+      "name": "Pepper",
+      "dob": "2021-01-20",
+      "listedDate": "2026-03-16",
+      "description": "Independent and bold, Pepper is a true explorer of the indoors.",
+      "imageUrl": "https://cataas.com/cat/white?width=400",
+      "gender": "Female",
+      "breed": "Abyssinian",
+      "isVaccinated": true,
+      "energyLevel": 2,
+      "linkedCats": [],
+      "goodWith": [
+        "Quiet Homes",
+        "Birds",
+        "Kids"
+      ]
+    }
+  ]
+}
