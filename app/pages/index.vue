@@ -5,9 +5,8 @@
       description="Find cats available for rehoming and give them a loving home. Browse our selection of adorable cats waiting for adoption."
       :links="[{
         label: 'Find your cat',
-        to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
-        target: '_blank',
-        trailingIcon: 'i-lucide-cat',
+        to: '/listings',
+        trailingIcon: 'i-lucide-chevron-right',
         size: 'xl'
       }]"
     />
